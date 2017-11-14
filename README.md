@@ -22,6 +22,6 @@
 P.S. the idea of auto-updating already in use in my repo: https://github.com/Ver1Sus/Py2exePatch 
 
 
-dependencies:
+Dependencies:
  1) reqests - to connect to server
  2) zipfile - to open library.zip
